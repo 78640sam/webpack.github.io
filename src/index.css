@@ -1,0 +1,47 @@
+#main{
+    
+    height:100px;
+    width:100%;
+    background-color:black;
+}
+img{
+
+    height:70px;
+    padding:10px;
+    margin-left: 10px;
+    margin-right: 800px;
+}
+.main-div{
+    display:flex;
+
+}
+button{
+    width:100px;
+    height:40px;
+    margin-left:40px;
+    margin-top:20px;
+}
+#p-class1{
+    color:white;
+padding:10px;
+margin-left:30px;
+    
+}
+#p-class2{
+    color:white;
+padding:7px;
+margin-left:30px;
+height:30px;
+width:30px;
+
+    
+}
+#text{
+    color:white;
+    margin-left:40px;
+}
+iframe{
+    width:700px;
+    height:700px;
+    margin-left:400px;
+}
